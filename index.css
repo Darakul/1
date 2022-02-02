@@ -1,13 +1,11 @@
 body {
-    background-color: rgb(128, 181, 241);
+    background-color: black;
   }
-
   h1 {
     color: royalblue;
     text-align: center;
     font-size: 40px;
   }
-
   h2 {
     color: slategrey;
     text-align: left;
